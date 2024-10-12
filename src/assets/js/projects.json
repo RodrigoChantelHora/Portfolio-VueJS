@@ -1,0 +1,250 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "source": 0,
+            "title": "Sistema MVC Kristta",
+            "description": "Desenvolvimento voltado para a criação de um sistema de gerenciamento versátil.",
+            "image": "/images/projects/sistema-kristta/sistemakristta.png",
+            "technologies": {
+                "php": 0,
+                "laravel": 1,
+                "javaScript": 1,
+                "vue": 0,
+                "html": 1,
+                "css": 1,
+                "bootstrap": 0,
+                "tailwindcss": 0,
+                "mysql": 1
+            },
+            "details_link": "/project",
+            "external_link": "https://www.kristta.com.br",
+            "github_link": "",
+            "details": {
+                "resume": "Sistema MVC robusto, projetado para atender às necessidades de gerenciamento de dados, com foco em eficiência e escalabilidade.",
+                "resume_image": "/images/projects/sistema-kristta/sistemakristta.png",
+                "principal_objective": "Desenvolver um sistema completo que simplifique a gestão de informações e processos, otimizando a produtividade empresarial.",
+                "quality": "Código limpo e organizado, garantindo facilidade de manutenção e expansão futura do sistema.",
+                "results": "O sistema já demonstrou uma melhoria significativa na organização dos dados e na eficiência dos processos internos.",
+                "features": [
+                    "Sitema de pagamentos com API Mercado Pago",
+                    "Gerador de Faturas",
+                    "Gerenciamento de solicitações",
+                    "Gerenciamento de contatos"
+                ],
+                "video": "https://www.youtube.com/embed/Wcbc-w-ZyhQ?si=OEJMe-25txBgCYjk",
+                "example_image_01": "/images/projects/sistema-kristta/1.png",
+                "example_image_02": "/images/projects/sistema-kristta/2.png"
+            }
+        },
+        {
+            "id": 2,
+            "source": 1,
+            "title": "GERDIR - Imagens",
+            "description": "Ferramenta para gerenciar e renomear imagens em escala. E gerar os respectivos diretórios.",
+            "image": "/images/projects/gerdir/000.png",
+            "technologies": {
+                "php": 1,
+                "laravel": 0,
+                "javaScript": 1,
+                "vue": 0,
+                "html": 0,
+                "css": 0,
+                "bootstrap": 1,
+                "tailwindcss": 0,
+                "mysql": 0
+            },
+            "details_link": "/project",
+            "external_link": "",
+            "github_link": "https://github.com/RodrigoChantel/gerenciador-de-imagens",
+            "details": {
+                "resume": "Aplicação focada em simplificar a organização e padronização de imagens para lojas virtuais, aumentando a eficiência do fluxo de trabalho.",
+                "resume_image": "/images/projects/gerdir/000.png",
+                "principal_objective": "Automatizar o processo de renomeação e categorização de imagens, economizando tempo e reduzindo erros.",
+                "quality": "Interface intuitiva e funcionalidades robustas para atender às demandas de gerenciamento em grande escala.",
+                "results": "A aplicação já ajudou diversos lojistas a manterem suas imagens organizadas, resultando em um processo de venda mais ágil e eficiente.",
+                "features": [
+                    "Gerador de diretórios pré-definidos",
+                    "Renomeia e adicona sufixo de acordo com o id do produto",
+                    "Exibe imagens da produto",
+                    "Possibilita a exclusão de imagens indesejadas"
+                ],
+                "video": "https://www.youtube.com/embed/sB0BSINBSt0?si=cUpiJA5IbY76otNJ",
+                "example_image_01": "/images/projects/gerdir/001.png",
+                "example_image_02": "/images/projects/gerdir/002.png"
+            }
+        },
+        {
+            "id": 3,
+            "source": 0,
+            "title": "Anime Streaming",
+            "description": "Plataforma de streaming desenvolvida como parte de um projeto  com fim educacional, integrando API de animes para exibição de conteúdos.",
+            "image": "/images/projects/animestreaming/AnimeStreaming.png",
+            "technologies": {
+                "php": 0,
+                "laravel": 1,
+                "javaScript": 1,
+                "vue": 0,
+                "html": 0,
+                "css": 0,
+                "bootstrap": 1,
+                "tailwindcss": 1,
+                "mysql": 1
+            },
+            "details_link": "/project",
+            "external_link": "",
+            "github_link": "",
+            "details": {
+                "resume": "Plataforma de streaming desenvolvida como parte de um projeto educacional, integrando API de animes para exibição de conteúdos.",
+                "resume_image": "/images/projects/animestreaming/AnimeStreaming.png",
+                "principal_objective": "Explorar e aplicar tecnologias modernas no desenvolvimento de uma plataforma de streaming voltada para fãs de animes.",
+                "quality": "Implementação de uma interface moderna e responsiva, com ênfase na experiência do usuário.",
+                "results": "O projeto serviu como base para o aprendizado e experimentação com APIs, proporcionando um conhecimento prático valioso.",
+                "features": [
+                    "Consome API Rest para listar Animes com seus devidos links funcionais",
+                    "Possibilita a adição e exclusão de animes da sua lista",
+                    "Fornece histórico de animes e episódios assistidos",
+                    "Contém campo para busca de animes por nome ou parte da descrição"
+                ],
+                "video": "https://www.youtube.com/embed/QX70ugINoH0?si=mGbYkn2KRK7xLIvw",
+                "example_image_01": "/images/projects/animestreaming/001.png",
+                "example_image_02": "/images/projects/animeStreaming/002.png"
+            }
+        },
+        {
+            "id": 4,
+            "source": 0,
+            "title": "Website Kristta",
+            "description": "Desenvolvimento de um site corporativo em colaboração com dois sócios.",
+            "image": "/images/projects/site-kristta/bgkristta.png",
+            "technologies": {
+                "php": 1,
+                "laravel": 0,
+                "javaScript": 1,
+                "vue": 0,
+                "html": 0,
+                "css": 0,
+                "bootstrap": 1,
+                "tailwindcss": 0,
+                "mysql": 1
+            },
+            "details_link": "/project",
+            "external_link": "https://kristta.com.br",
+            "github_link": "",
+            "details": {
+                "resume": "Site institucional criado para a empresa Kristta, com design responsivo e foco na apresentação clara de informações.",
+                "resume_image": "/images/projects/site-kristta/bgkristta.png",
+                "principal_objective": "Criar um site profissional que reflita a identidade da empresa e atenda às necessidades de seus usuários.",
+                "quality": "Design moderno e navegação intuitiva, proporcionando uma experiência agradável para os visitantes.",
+                "results": "O site tem desempenhado um papel fundamental na comunicação da marca e na captação de novos clientes.",
+                "features": [
+                    "Apresentação da agência",
+                    "Captação de leads",
+                    "Portfólio com serviços que foram prestados"
+                ],
+                "video": "https://www.youtube.com/embed/jaPndYpsweU?si=lXeX-mH4y31C5DVg",
+                "example_image_01": "/images/projects/site-kristta/kristtagaleria.png",
+                "example_image_02": "/images/projects/site-kristta/kristtagaleria2.png"
+            }
+        },
+        {
+            "id": 5,
+            "source": 0,
+            "title": "Portfólio",
+            "description": "Portfólio pessoal destacando habilidades, projetos e experiências.",
+            "image": "/images/projects/siterodrigo.png",
+            "technologies": {
+                "php": 0,
+                "laravel": 0,
+                "javaScript": 0,
+                "vue": 1,
+                "html": 0,
+                "css": 0,
+                "bootstrap": 1,
+                "tailwindcss": 0,
+                "mysql": 0
+            },
+            "details_link": "/project",
+            "external_link": "",
+            "github_link": "",
+            "details": {
+                "resume": "Portfólio online projetado para mostrar meu trabalho, destacando minhas principais competências e experiências.",
+                "resume_image": "/images/projects/siterodrigo.png",
+                "principal_objective": "Apresentar minhas habilidades e experiências de maneira organizada e visualmente atraente.",
+                "quality": "Design limpo e profissional, com foco na clareza e na navegação fácil.",
+                "results": "O portfólio tem sido uma ferramenta eficaz para mostrar meu trabalho a potenciais empregadores e clientes.",
+                "features": [
+                    "Formulário com requisição API para link externo",
+                    "Apresentação de alguns dos meus projetos",
+                    "Praticas com VueJs 3",
+                    "Minha apresentação pessoal"
+                ],
+                "video": "https://www.youtube.com/embed/6s9xi3kspjI?si=sug_-F2R5WzLQSje",
+                "example_image_01": "/images/projects/siterodrigo.png",
+                "example_image_02": "/images/projects/siterodrigo.png"
+            }
+        },
+        {
+            "id": 6,
+            "source": 1,
+            "title": "Gerenciador",
+            "description": "Sistema para gerenciar solicitações de serviços e controle administrativo.",
+            "image": "/images/projects/kristtaold/kristtaold.png",
+            "technologies": {
+                "php": 1,
+                "laravel": 0,
+                "javaScript": 1,
+                "vue": 0,
+                "html": 0,
+                "css": 0,
+                "bootstrap": 1,
+                "tailwindcss": 0,
+                "mysql": 1
+            },
+            "details_link": "/project",
+            "external_link": "",
+            "github_link": "",
+            "details": {
+                "resume": "Ferramenta desenvolvida para facilitar o gerenciamento de solicitações de serviços e melhorar a administração interna.",
+                "resume_image": "/images/projects/kristtaold/kristtaold.png",
+                "principal_objective": "Centralizar e simplificar o processo de solicitação e acompanhamento de serviços dentro da empresa.",
+                "quality": "Interface clara e funcionalidades que atendem às necessidades administrativas, com foco em eficiência.",
+                "results": "O sistema trouxe mais organização e controle para os processos de gestão de solicitações, otimizando o fluxo de trabalho.",
+                "video": "https://www.youtube.com/6s9xi3kspjI?si=sug_-F2R5WzLQSje000",
+                "example_image_01": "/images/projects/kristtaold/001.png",
+                "example_image_02": "/images/projects/kristtaold/002.png"
+            }
+        },
+        {
+            "id": 7,
+            "source": 0,
+            "title": "Landing Page Familly",
+            "description": "Página de apresentação para a empresa Familly, destacando seus serviços e valores.",
+            "image": "/images/projects/site-magicfamilly/magicfamilly.png",
+            "technologies": {
+                "php": 1,
+                "laravel": 0,
+                "javaScript": 1,
+                "vue": 0,
+                "html": 0,
+                "css": 0,
+                "bootstrap": 1,
+                "tailwindcss": 0,
+                "mysql": 0
+            },
+            "details_link": "/project",
+            "external_link": "https://magicfamilly.com.br",
+            "github_link": "",
+            "details": {
+                "resume": "Landing page criada para a empresa Familly, com o objetivo de atrair e engajar potenciais clientes.",
+                "resume_image": "/images/projects/site-magicfamilly/magicfamilly.png",
+                "principal_objective": "Desenvolver uma página que comunique eficazmente os serviços oferecidos pela empresa, gerando leads qualificados.",
+                "quality": "Design atraente e mensagens claras que destacam os principais diferenciais da empresa.",
+                "results": "A página tem contribuído significativamente para o aumento das consultas e contratações de serviços.",
+                "video": "https://www.youtube.com/embed/Due_TJhYml8?si=mqwtHtGMgrudjgpB",
+                "example_image_01": "/images/projects/site-magicfamilly/001.png",
+                "example_image_02": "/images/projects/site-magicfamilly/002.png"
+            }
+        }
+    ]
+}
