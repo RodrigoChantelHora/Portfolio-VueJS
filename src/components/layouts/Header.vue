@@ -10,7 +10,7 @@
                     <div class="collapse navbar-collapse" id="socialLinks">
                         <ul class="navbar-nav w-100 justify-content-end me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a target="_blank" class="nav-link" href="https://github.com/RodrigoChantel">
+                                <a target="_blank" class="nav-link" href="https://github.com/RodrigoChantelHora">
                                     <font-awesome-icon :icon="['fab', 'github']" /> <text class="d-md-none d-lg-none">Github</text>
                                 </a>
                             </li>

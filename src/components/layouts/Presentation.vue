@@ -37,9 +37,19 @@
             </div>
             <!-- Coluna da imagem -->
             <div class="col-md-6 d-flex justify-content-center align-items-center text-center">
-                <img class="profile img-fluid" src="/images/Rodrigo-profile-ex.webp" alt="Rodrigo Chantel">
+                <img class="profile img-fluid" :src="profileImage" alt="Rodrigo Chantel">
             </div>
         </div>
     </div>
 
 </template>
+
+<script>
+    export default {
+        data() {
+            return {
+                profileImage: "/images/Rodrigo-profile-ex.webp"
+            };
+        },
+    }
+</script>
